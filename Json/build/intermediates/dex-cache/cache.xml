@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Json\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\Json\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_3f5aedf99e1357bbd2511c560fe0f86fb660c511\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\f9829bcf53c3ec77cc596cc4b3c476dd6e9e964c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="D:\Json\app\build\intermediates\pre-dexed\debug\classes_f4fc7dd377ab7a70786258ed14b896d6e941c8d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\04827a1cf5107106bbdc696f3a46fda021abfcdc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="D:\Json\app\build\intermediates\pre-dexed\debug\classes_57fa17cd5ba2265c8c8d74b51c53ce246b1d8546.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\76af5c04551abe70fb126dc982ed788a278e6096\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="D:\Json\app\build\intermediates\pre-dexed\debug\classes_fbde40815daa458440073cc56c11cc273109fd59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="D:\Json\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_0f23b7deb132f355606fa88853cb2a3887d1c371.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\7171ad5755b6cd9dae57a05bb4662f76be4f9722\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Json\app\build\intermediates\pre-dexed\debug\classes_8c148ffc80c04fefb5094c6ccca222771308afc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\d8885742241eef42981ec86a1c6c5969e89e3edb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="D:\Json\app\build\intermediates\pre-dexed\debug\classes_de8ca9b41ed36d6cf2285c9fc35b712778780db7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\815e086e8cf96c697c60f39e00eef690aa6ffd0e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="D:\Json\app\build\intermediates\pre-dexed\debug\classes_c2c45253354a557c06117f6177ac091be539a2b0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Json\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="cfee4550ed3f53d406a910dcc686c99c72c0efd2">
+        <dex dex="D:\Json\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3c2e7020ab5f6796aa6ff574e9b9f9c4334363d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\2f138d6a047d0d4b6cdb15d2bb2389188d62df4f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="D:\Json\app\build\intermediates\pre-dexed\debug\classes_62b6d9ca86c07415e545a13eba945aeda13ccf0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\149f784d00078a0d834dccc8863c372bebedba41\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="D:\Json\app\build\intermediates\pre-dexed\debug\classes_6c475259c41e71dccc926a82c30d32e7643a0d76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="D:\Json\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_98e5920e0f9b0e1a1b6a707f8402b4f5acf9a5db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\393adca9366ccfe73f7db21dbdeff083430702c9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="D:\Json\app\build\intermediates\pre-dexed\debug\classes_dfe52aa6ef46f3e1a8e25c0fc6ecc201f051b8a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\.android\build-cache\f6fb816c1aefbf84c0cc0c8c5d320b89cd62c2d9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="D:\Json\app\build\intermediates\pre-dexed\debug\classes_ddbe49de3b001af3daa18cd569202e88c9065e92.jar" />
+    </item>
+
+</items>
